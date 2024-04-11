@@ -7,7 +7,7 @@
  /* Style for the buttons */
  .buttons button {
      background-color: transparent;
-     text-shadow: blue 1px 1px 1px;
+     text-shadow: rgb(196, 27, 27) .5px .5px 1px;
      border: none;
      font-size: 20px;
      cursor: pointer;
@@ -100,8 +100,8 @@ body{
 .checkbox::after{
     content: "";
     position: absolute;
-    height: 100000000px;
-    width: 10000000px;
+    height: 10000px;
+    width: 10000px;
     background: #2b2b2b;
     top: 80px;
     left: 160px;

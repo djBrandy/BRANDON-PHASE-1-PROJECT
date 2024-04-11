@@ -79,7 +79,14 @@ function isEmail(email) {
 
 
 
-
+document.addEventListener('DOMContentLoaded', function() {
+    const buttons = document.querySelectorAll('.buttons');
+    buttons.forEach(function(button) {
+        button.addEventListener('click', function() {
+            alert("You first need to create an account.");
+        });
+    });
+});
 
 
 
