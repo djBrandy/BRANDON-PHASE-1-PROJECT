@@ -1,0 +1,85 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "capital": "Kabul"
+    },
+    {
+      "name": "Albania",
+      "capital": "Tirana"
+    },
+    {
+      "name": "Algeria",
+      "capital": "Algiers"
+    },
+    {
+      "name": "Andorra",
+      "capital": "Andorra la Vella"
+    },
+    {
+      "name": "Angola",
+      "capital": "Luanda"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "capital": "St. John's"
+    },
+    {
+      "name": "Argentina",
+      "capital": "Buenos Aires"
+    },
+    {
+      "name": "Armenia",
+      "capital": "Yerevan"
+    },
+    {
+      "name": "Australia",
+      "capital": "Canberra"
+    },
+    {
+      "name": "Austria",
+      "capital": "Vienna"
+    },
+    {
+      "name": "Azerbaijan",
+      "capital": "Baku"
+    },
+    {
+      "name": "Bahamas",
+      "capital": "Nassau"
+    },
+    {
+      "name": "Bahrain",
+      "capital": "Manama"
+    },
+    {
+      "name": "Bangladesh",
+      "capital": "Dhaka"
+    },
+    {
+      "name": "Barbados",
+      "capital": "Bridgetown"
+    },
+    {
+      "name": "Belarus",
+      "capital": "Minsk"
+    },
+    {
+      "name": "Belgium",
+      "capital": "Brussels"
+    },
+    {
+      "name": "Belize",
+      "capital": "Belmopan"
+    },
+    {
+      "name": "Benin",
+      "capital": "Porto-Novo"
+    },
+    {
+      "name": "Bhutan",
+      "capital": "Thimphu"
+    }
+    
+  ]
+}
