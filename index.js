@@ -230,7 +230,7 @@ function hideCreateBox() {
 
 
 
-// FETCHING FUNCTIONS
+// FETCHING THE API AFRICAN COUNTRIES
 
 
 
