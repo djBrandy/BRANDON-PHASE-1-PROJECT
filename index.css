@@ -1,4 +1,4 @@
- /* Basic button styling */
+
  .buttons {
     display: flex;
     gap: 20px;
@@ -7,7 +7,7 @@
 
 
 
-/* Style for the buttons */
+
 .buttons button {
     background-color: transparent;
     text-shadow: rgb(196, 27, 27) .5px .5px 1px;
@@ -35,7 +35,7 @@
 
 
 
-/* Underline effect on hover */
+
 .buttons button::after {
     content: "";
     position: absolute;

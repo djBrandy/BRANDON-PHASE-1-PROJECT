@@ -17,6 +17,7 @@ const buttons = document.querySelectorAll('#page1 .buttons');
 buttons.forEach(button => {
     button.addEventListener('click', () => {
         // Display alert message
+
         alert("You first need to create an account.");
     });
 });
@@ -101,7 +102,6 @@ function setSuccessFor(input) {
 }
 
 
-// look for an easier and more comprehendable way of validating email address.
 function isEmail(email) {
     // Regular expression to validate email format
     return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
