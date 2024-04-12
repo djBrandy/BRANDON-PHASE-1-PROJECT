@@ -238,14 +238,13 @@ function hideCreateBox() {
 document.addEventListener('DOMContentLoaded', function() {
     const countryBox = document.getElementById('countryBox');
   
-    fetch('countries.json')
+    fetch('http://localhost:3000/African_countries')
       .then(response => {
-        console.log('Fetch response:', response);
         return response.json();
       })
       .then(data => {
-        console.log('Fetched data:', data);
-        data.African_countries.forEach(country => {
+        
+        data.forEach(country => {
           const countryElement = document.createElement('div');
           countryElement.classList.add('country');
           countryElement.textContent = country.name;
