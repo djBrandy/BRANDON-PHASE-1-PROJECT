@@ -16,7 +16,7 @@ Review Mode: Users can flip through flashcards sequentially to review the conten
 
 
 ## LIVE SITE
-https://djbrandy.github.io/Brandon-Dando-Third-Code-Challenge/
+https://djbrandy.github.io/BRANDON-PHASE-1-PROJECT/
 
 ## TECHNOLOGIES
 1. HTML
