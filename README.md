@@ -20,7 +20,8 @@ https://djbrandy.github.io/Brandon-Dando-Third-Code-Challenge/
 
 ## TECHNOLOGIES
 1. HTML
-2. JavaScript
+2. CSS
+3. JavaScript
 
 ## CONTACT INFORMATION
 You can reach out to me through:
