@@ -26,6 +26,7 @@ https://djbrandy.github.io/Brandon-Dando-Third-Code-Challenge/
 ## CONTACT INFORMATION
 You can reach out to me through:
 - [Github](https://github.com/djBrandy)
+- [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/KtbxLxGrZGPPDlpJlGVJTKSNZNvRTsXNGV?compose=new)
 
 ## LICENSE
 MIT license
