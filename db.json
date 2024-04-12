@@ -1,85 +1,212 @@
 {
-  "countries": [
-    {
-      "name": "Afghanistan",
-      "capital": "Kabul"
-    },
-    {
-      "name": "Albania",
-      "capital": "Tirana"
-    },
+  "African_countries": [
     {
       "name": "Algeria",
       "capital": "Algiers"
-    },
-    {
-      "name": "Andorra",
-      "capital": "Andorra la Vella"
     },
     {
       "name": "Angola",
       "capital": "Luanda"
     },
     {
-      "name": "Antigua and Barbuda",
-      "capital": "St. John's"
-    },
-    {
-      "name": "Argentina",
-      "capital": "Buenos Aires"
-    },
-    {
-      "name": "Armenia",
-      "capital": "Yerevan"
-    },
-    {
-      "name": "Australia",
-      "capital": "Canberra"
-    },
-    {
-      "name": "Austria",
-      "capital": "Vienna"
-    },
-    {
-      "name": "Azerbaijan",
-      "capital": "Baku"
-    },
-    {
-      "name": "Bahamas",
-      "capital": "Nassau"
-    },
-    {
-      "name": "Bahrain",
-      "capital": "Manama"
-    },
-    {
-      "name": "Bangladesh",
-      "capital": "Dhaka"
-    },
-    {
-      "name": "Barbados",
-      "capital": "Bridgetown"
-    },
-    {
-      "name": "Belarus",
-      "capital": "Minsk"
-    },
-    {
-      "name": "Belgium",
-      "capital": "Brussels"
-    },
-    {
-      "name": "Belize",
-      "capital": "Belmopan"
-    },
-    {
       "name": "Benin",
       "capital": "Porto-Novo"
     },
     {
-      "name": "Bhutan",
-      "capital": "Thimphu"
+      "name": "Botswana",
+      "capital": "Gaborone"
+    },
+    {
+      "name": "Burkina Faso",
+      "capital": "Ouagadougou"
+    },
+    {
+      "name": "Burundi",
+      "capital": "Gitega"
+    },
+    {
+      "name": "Cabo Verde",
+      "capital": "Praia"
+    },
+    {
+      "name": "Cameroon",
+      "capital": "Yaoundé"
+    },
+    {
+      "name": "Central African Republic",
+      "capital": "Bangui"
+    },
+    {
+      "name": "Chad",
+      "capital": "N'Djamena"
+    },
+    {
+      "name": "Comoros",
+      "capital": "Moroni"
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "capital": "Kinshasa"
+    },
+    {
+      "name": "Djibouti",
+      "capital": "Djibouti City"
+    },
+    {
+      "name": "Egypt",
+      "capital": "Cairo"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "capital": "Malabo"
+    },
+    {
+      "name": "Eritrea",
+      "capital": "Asmara"
+    },
+    {
+      "name": "Eswatini",
+      "capital": "Mbabane"
+    },
+    {
+      "name": "Ethiopia",
+      "capital": "Addis Ababa"
+    },
+    {
+      "name": "Gabon",
+      "capital": "Libreville"
+    },
+    {
+      "name": "Gambia",
+      "capital": "Banjul"
+    },
+    {
+      "name": "Ghana",
+      "capital": "Accra"
+    },
+    {
+      "name": "Guinea",
+      "capital": "Conakry"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "capital": "Bissau"
+    },
+    {
+      "name": "Kenya",
+      "capital": "Nairobi"
+    },
+    {
+      "name": "Lesotho",
+      "capital": "Maseru"
+    },
+    {
+      "name": "Liberia",
+      "capital": "Monrovia"
+    },
+    {
+      "name": "Libya",
+      "capital": "Tripoli"
+    },
+    {
+      "name": "Madagascar",
+      "capital": "Antananarivo"
+    },
+    {
+      "name": "Malawi",
+      "capital": "Lilongwe"
+    },
+    {
+      "name": "Mali",
+      "capital": "Bamako"
+    },
+    {
+      "name": "Mauritania",
+      "capital": "Nouakchott"
+    },
+    {
+      "name": "Mauritius",
+      "capital": "Port Louis"
+    },
+    {
+      "name": "Morocco",
+      "capital": "Rabat"
+    },
+    {
+      "name": "Mozambique",
+      "capital": "Maputo"
+    },
+    {
+      "name": "Namibia",
+      "capital": "Windhoek"
+    },
+    {
+      "name": "Niger",
+      "capital": "Niamey"
+    },
+    {
+      "name": "Nigeria",
+      "capital": "Abuja"
+    },
+    {
+      "name": "Rwanda",
+      "capital": "Kigali"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "capital": "São Tomé"
+    },
+    {
+      "name": "Senegal",
+      "capital": "Dakar"
+    },
+    {
+      "name": "Seychelles",
+      "capital": "Victoria"
+    },
+    {
+      "name": "Sierra Leone",
+      "capital": "Freetown"
+    },
+    {
+      "name": "Somalia",
+      "capital": "Mogadishu"
+    },
+    {
+      "name": "South Africa",
+      "capital": "Pretoria"
+    },
+    {
+      "name": "South Sudan",
+      "capital": "Juba"
+    },
+    {
+      "name": "Sudan",
+      "capital": "Khartoum"
+    },
+    {
+      "name": "Tanzania",
+      "capital": "Dodoma"
+    },
+    {
+      "name": "Togo",
+      "capital": "Lomé"
+    },
+    {
+      "name": "Tunisia",
+      "capital": "Tunis"
+    },
+    {
+      "name": "Uganda",
+      "capital": "Kampala"
+    },
+    {
+      "name": "Zambia",
+      "capital": "Lusaka"
+    },
+    {
+      "name": "Zimbabwe",
+      "capital": "Harare"
     }
-    
   ]
 }
