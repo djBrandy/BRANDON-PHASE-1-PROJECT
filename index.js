@@ -226,3 +226,42 @@ function showCreateCardBox() {
 function hideCreateBox() {
     createBox.style.display = "none";
 }
+
+
+
+
+// FETCHING FUNCTIONS
+
+
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    const countryBox = document.getElementById('countryBox');
+  
+    fetch('countries.json')
+      .then(response => {
+        console.log('Fetch response:', response);
+        return response.json();
+      })
+      .then(data => {
+        console.log('Fetched data:', data);
+        data.African_countries.forEach(country => {
+          const countryElement = document.createElement('div');
+          countryElement.classList.add('country');
+          countryElement.textContent = country.name;
+  
+          countryElement.addEventListener('click', function() {
+            if (countryElement.textContent === country.name) {
+              countryElement.textContent = `${country.name} - ${country.capital}`;
+            } else {
+              countryElement.textContent = country.name;
+            }
+          });
+  
+          countryBox.appendChild(countryElement);
+        });
+      })
+      .catch(error => console.error('Error fetching data:', error));
+  });
+
+
