@@ -1,5 +1,5 @@
 
-# BRANDON third code challenge
+# BRANDON INDEPENDENT PROJECT
 ## AUTHOR
 [Brandon Dando](https://github.com/djBrandy)
 
@@ -22,6 +22,8 @@ https://djbrandy.github.io/BRANDON-PHASE-1-PROJECT/
 1. HTML
 2. CSS
 3. JavaScript
+4. Github
+
 
 ## CONTACT INFORMATION
 You can reach out to me through:
@@ -29,5 +31,6 @@ You can reach out to me through:
 - [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/KtbxLxGrZGPPDlpJlGVJTKSNZNvRTsXNGV?compose=new)
 
 ## LICENSE
+the license tht i used is licensed under the
 MIT license
 Copyright (c) 2024.
